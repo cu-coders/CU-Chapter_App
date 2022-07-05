@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationView {
-            SwiftUIWebView(url: URL(string: "https://home.cuchapter.tech"))
+            SwiftUIWebView(url: URL(string: "https://main.cuchapter.tech"))
         }
     }
 }
